@@ -1,2 +1,2 @@
 # tarot
-Coding dojo capstone project 
+Tentative Mockupp for freind's AI project 
